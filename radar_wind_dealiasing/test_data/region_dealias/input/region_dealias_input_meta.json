@@ -1,8 +1,0 @@
-{
-  "sweep_index": 0,
-  "vel_field": "velocity",
-  "ref_vel_field": "sim_velocity",
-  "refl_field": "reflectivity",
-  "ncp_field": "normalized_coherent_power",
-  "rhv_field": "cross_correlation_ratio"
-}
